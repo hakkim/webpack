@@ -1,4 +1,4 @@
-# webpack
+# webpack Training Course
 Webpack Training Course Codes
 
 # Key Points
@@ -13,7 +13,7 @@ Webpack Training Course Codes
 npm install
 yarn install
 
-yarn build --> For building assets
+yarn build --> For building assets <br/>
 yarn start --> For browserr synchronisation
 
 Used Plugins
