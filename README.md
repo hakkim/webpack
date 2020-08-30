@@ -13,8 +13,8 @@ Webpack Training Course Codes
 <code>npm install</code><br/>
 <code>yarn install</code>
 
-<code>yarn build --> For building assets</code> <br/>
-<code>yarn start --> For browserr synchronisation</code>
+<code>yarn build</code> --> For building assets <br/>
+<code>yarn start</code> --> For browserr synchronisation
 
 # Used Plugins
 Clean Webpack Plugin --> A webpack plugin to remove/clean build folder(s). <br/>
