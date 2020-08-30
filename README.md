@@ -2,12 +2,12 @@
 Webpack Training Course Codes
 
 # Key Points
--- Asset building with webpack
--- Compilation of Css and javascript
--- Babel Loader included for ES6 support
--- Separated Javascript files
--- Page based Javascript modules
--- Browser synchronisation added for live preview of changes
+-- Asset building with webpack <br/>
+-- Compilation of Css and javascript <br/>
+-- Babel Loader included for ES6 support <br/>
+-- Separated Javascript files <br/>
+-- Page based Javascript modules <br/>
+-- Browser synchronisation added for live preview of changes <br/>
 
 # Instaling
 npm install
