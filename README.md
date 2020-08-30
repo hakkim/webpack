@@ -10,11 +10,11 @@ Webpack Training Course Codes
 -- Browser synchronisation added for live preview of changes <br/>
 
 # Steps
-npm install
-yarn install
+<code>npm install</code><br/>
+<code>yarn install</code>
 
-yarn build --> For building assets <br/>
-yarn start --> For browserr synchronisation
+<code>yarn build --> For building assets</code> <br/>
+<code>yarn start --> For browserr synchronisation</code>
 
 # Used Plugins
 Clean Webpack Plugin --> A webpack plugin to remove/clean build folder(s). <br/>
